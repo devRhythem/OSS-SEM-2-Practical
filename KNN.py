@@ -1,4 +1,4 @@
-# Import libraries
+# Scikit learn library used to implementing Ml models
 from sklearn.datasets import load_iris        # Dataset
 from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
