@@ -16,7 +16,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y,
 
 # 3. Initialize KNN model
 # n_neighbors = 3 → looks at 3 nearest neighbors to classify
-knn = KNeighborsClassifier(n_neighbors=3)
+knn = KNeighborsClassifier(n_neighbors=5)
 
 # 4. Train the model
 knn.fit(X_train, y_train)
