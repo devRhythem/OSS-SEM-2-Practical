@@ -1,3 +1,4 @@
+# Logistic Regression Implementation on Titanic Dataset using Gradient Descent
 import seaborn as sns
 import numpy as np
 import pandas as pd
