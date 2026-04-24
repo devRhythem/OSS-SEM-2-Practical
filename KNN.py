@@ -30,3 +30,4 @@ print("Accuracy:", accuracy_score(y_test, y_pred))
 # Sample predictions
 print("First 5 Predictions:", y_pred[:5])
 print("First 5 True Values:", y_test[:5])
+print("End")
